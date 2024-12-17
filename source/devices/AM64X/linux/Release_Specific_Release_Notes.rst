@@ -215,6 +215,13 @@ Issues Resolved
    "EXT_EP-12110","am64xx-evm : OSPI NOR boot fails"
    "EXT_EP-12049","AM64X EVM: Fastboot is not functional"
    "EXT_EP-12104","AM64x NAND dtso file missing in kernel 6.6"
+   "PINDSW-7087","Ethernet: IET: Frame preemption MAC verify fails"
+   "PINDSW-8229","Ethernet: FDB: FDB entries missing with link up/down activity"
+   "PINDSW-8187","Ethernet: FDB: MC frame is not received when only specific port bit is set in FID_C2 (Applicable only for DUAL MAC mode)"
+   "PINDSW-8086","Ethernet: FDB: Port blocked/disabled use case for special frame"
+   "PINDSW-8022","Ethernet: TAPRIO: Moved base time usage into the firmware"
+   "PINDSW-7988","Ethernet: CT: Cut-thru can not be verified (Missing PA statistics)"
+   "PINDSW-8273","Ethernet: 10M: Link Status Valid flag is not set in case of 100M/1G"
 
 
 Issues Open
