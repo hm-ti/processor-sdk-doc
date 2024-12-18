@@ -222,6 +222,7 @@ Issues Resolved
    "PINDSW-8022","Ethernet: TAPRIO: Moved base time usage into the firmware"
    "PINDSW-7988","Ethernet: CT: Cut-thru can not be verified (Missing PA statistics)"
    "PINDSW-8273","Ethernet: 10M: Link Status Valid flag is not set in case of 100M/1G"
+   "PINDSW-8073","ICSSG Switch: PTP: Interrupt is coming on the other port"
 
 
 Issues Open
